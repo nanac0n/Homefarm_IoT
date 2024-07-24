@@ -1,12 +1,12 @@
 # HomeFarm
 
-사이버보안학과 201920668 최재민
+#### Collaborator
+> _사이버보안학과 최재민 <br/>
+사이버보안학과 홍리나  <br/>
+소프트웨어학과 METE STEPHANIE KIM_
 
-사이버보안학과 202126469 홍리나
 
-소프트웨어학과 201920798 METE STEPHANIE KIM
-
-### rpi2
+### rpi2 : main Rpi
 
 `gcc -o rpi2 rpi2.c -lpthread`  
 `./RPI2`
